@@ -1,0 +1,13 @@
+{
+  "require": {
+    "noahbuscher/macaw": "dev-master",
+    "catfan/medoo": "*"
+  },
+  "autoload": {
+    "classmap": [
+      "app/controllers",
+      "app/models",
+      "app/views"
+    ]
+  }
+}
