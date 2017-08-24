@@ -1,0 +1,4 @@
+==============================================================
+浏览器网址前面显示小图标
+==============================================================
+<link rel="shortcut icon" type="image/x-icon" href="http://www.iswweb.com/images/favicon.ico" media="screen" />
