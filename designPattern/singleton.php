@@ -7,7 +7,7 @@
  */
 
 class Singleton {
-    //保存类实例的静态成员变量
+    // 保存类实例的静态成员变量
     private static $_instance;
 
     //构造方法私有
